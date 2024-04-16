@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3notes",
+  "policyUUID": "f9b82528",
+  "bucketName": "amplifyreactgraphql1ddb2f937e444ad49d03555de92e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
